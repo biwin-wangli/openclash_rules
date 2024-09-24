@@ -12,6 +12,9 @@ DOMAIN-KEYWORD,xn--4gq62f52gdss
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+# aws vps
+IP-CIDR,13.114.94.7/32,no-resolve
+IP-CIDR,13.231.47.84/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
