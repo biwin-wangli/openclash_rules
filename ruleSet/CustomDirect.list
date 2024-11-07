@@ -1,0 +1,16 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,xn--4gq62f52gdss
+# 一元机场订阅域名
+DOMAIN-SUFFIX,smallstrawberry.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,cn.bing.com
+DOMAIN-KEYWORD,csdn.com
+DOMAIN-KEYWORD,csdn.net
+
+
+# IP段匹配
+# aws vps
+IP-CIDR,13.114.94.7/32,no-resolve
+IP-CIDR,13.231.47.84/32,no-resolve
+# yizhi vpn
+IP-CIDR,101.207.235.153/32,no-resolve

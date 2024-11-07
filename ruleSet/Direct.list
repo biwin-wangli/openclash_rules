@@ -1,18 +1,15 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xn--4gq62f52gdss
+# 一元机场订阅域名
+DOMAIN-SUFFIX,smallstrawberry.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-KEYWORD,cn.bing.com
+DOMAIN-KEYWORD,csdn.com
+DOMAIN-KEYWORD,csdn.net
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
 # aws vps
 IP-CIDR,13.114.94.7/32,no-resolve
 IP-CIDR,13.231.47.84/32,no-resolve
@@ -592,6 +589,3 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-# 一元机场订阅域名
-DOMAIN-SUFFIX,smallstrawberry.com
-DOMAIN-SUFFIX,gstatic.com
