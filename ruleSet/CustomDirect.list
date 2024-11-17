@@ -24,5 +24,7 @@ DOMAIN-KEYWORD,doubao.com
 # aws vps
 IP-CIDR,13.114.94.7/32,no-resolve
 IP-CIDR,13.231.47.84/32,no-resolve
+IP-CIDR,35.212.220.171/32,no-resolve
+IP-CIDR,64.181.239.235/32,no-resolve
 # yizhi vpn
 IP-CIDR,101.207.235.153/32,no-resolve
