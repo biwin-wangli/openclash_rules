@@ -2,18 +2,17 @@
 DOMAIN-KEYWORD,xn--4gq62f52gdss
 # 一元机场订阅域名
 DOMAIN-SUFFIX,smallstrawberry.com
-DOMAIN-KEYWORD,cn.bing.com
+DOMAIN-KEYWORD,cn.bing.com,DIRECT
 
 # IP段匹配
-# aws vps
-IP-CIDR,13.114.94.7/32,no-resolve
-IP-CIDR,13.231.47.84/32,no-resolve
+# aws ec2 vps
+IP-CIDR,13.231.47.84/32,DIRECT,no-resolve
+# serv00
+DOMAIN-SUFFIX,serv00.com
 # google vps
-IP-CIDR,35.212.220.171/32,no-resolve
+IP-CIDR,35.212.220.171/32,DIRECT,no-resolve
 # oracle vps
-IP-CIDR,64.181.233.93/32,no-resolve
-IP-CIDR,64.181.239.235/32,no-resolve
-
+IP-CIDR,64.181.239.235/32,DIRECT,no-resolve
 
 # yizhi vpn
-IP-CIDR,101.207.235.153/32,no-resolve
+IP-CIDR,101.207.235.153/32,DIRECT,no-resolve
