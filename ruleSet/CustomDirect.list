@@ -1,6 +1,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,xn--4gq62f52gdss
 # 一元机场订阅域名
+DOMAIN-SUFFIX,sharedchat.cc
 DOMAIN-SUFFIX,smallstrawberry.com
 DOMAIN-KEYWORD,cn.bing.com,DIRECT
 
